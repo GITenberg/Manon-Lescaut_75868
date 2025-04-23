@@ -1,0 +1,55 @@
+_repo: Manon-Lescaut_75868
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hoyos y Vinent, Antonio de
+    aliases:
+    - Vinent, Antonio de Hoyos y
+    - Hoyos, Antonio de
+    birthdate: 1885
+    deathdate: 1940
+    gutenberg_agent_id: '33433'
+    url: http://www.gutenberg.org/2009/agents/33433
+    wikipedia: http://es.wikipedia.org/wiki/Antonio_de_Hoyos_y_Vinent
+creator:
+  author:
+    agent_name: Prévost, abbé
+    aliases:
+    - Prévost, Antoine François, called Prévost d'Exiles
+    - Prevost, abbe
+    - Prevost, Antoine Francois
+    - Cleveland, Mr.
+    - Lade, Robert
+    - Prévost, Antoine François
+    - Prévost, Antoine-François
+    birthdate: 1697
+    deathdate: 1763
+    gutenberg_agent_id: '250'
+    url: http://www.gutenberg.org/2009/agents/250
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Pr%C3%A9vost
+    - https://fr.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Pr%C3%A9vost
+description: ''
+gutenberg_issued: '2025-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75868'
+language: es
+pgterms:marc904: http://bdh-rd.bne.es/viewer.vm?id=0000188788&page=1
+pgterms:marc905: 20240704153145prvost
+pgterms:marc906: '1919'
+pgterms:marc907: ES
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Biblioteca Nacional de España. )
+publication_note: '  $aMADRID :$bEditorial Estrella, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Lescaut, Manon, 1689-1721 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Manon Lescaut
+url: http://www.gutenberg.org/ebooks/75868
