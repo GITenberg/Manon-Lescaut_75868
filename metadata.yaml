@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '33433'
     url: http://www.gutenberg.org/2009/agents/33433
     wikipedia: http://es.wikipedia.org/wiki/Antonio_de_Hoyos_y_Vinent
+covers:
+- cover_type: archival
+  image_path: 75868-h/images/cover.jpg
 creator:
   author:
     agent_name: Prévost, abbé
@@ -30,6 +33,8 @@ creator:
     - https://en.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Pr%C3%A9vost
     - https://fr.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Pr%C3%A9vost
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75868#Manon-Lescaut
 gutenberg_issued: '2025-04-15'
 gutenberg_type: Text
 identifiers:
